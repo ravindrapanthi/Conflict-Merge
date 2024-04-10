@@ -1,3 +1,7 @@
 Name ravindraa
+<<<<<<< HEAD
 from tryk
+=======
+from browser
+>>>>>>> FETCH_HEAD
 age 00
