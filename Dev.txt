@@ -1,5 +1,2 @@
-Name- Bhuvan
-Age 26
-City Bhopal
-jabi 
-wb 
+Name- rocky
+age 23
